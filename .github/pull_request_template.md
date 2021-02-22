@@ -10,6 +10,9 @@ Se for possível adicione uma evidência do problema que está sendo solucionado
 #### Evidência da Solução
 Show Time! Mostre aqui como ficou da hora sua solução através de vídeo/prints, ou qualquer recurso que deixe claro a solução.
 
+#### Links
+Adicione aqui referências que ajudem a compreender o problema ou a solução.
+
 #### Checklist
 - [ ] Testes de Unidade adicionados/ajustados mantendo a cobertura mínima
 - [ ] Adição de Logs com o Level, mensagem e contexto adequado
